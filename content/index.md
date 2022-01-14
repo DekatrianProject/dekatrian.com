@@ -1,0 +1,7 @@
+# Calendário Dekatrian
+
+O Calendário Dekatrian tem o objetivo de simplificar e melhorar a relação humana com o tempo, enquanto resolve diversos problemas e dificuldades do calendário atual, o Gregoriano. Trata-se de um calendário solar contendo 13 meses com exatos 28 dias, ou 4 semanas perfeitas. Assim, todo dia 1 de cada mês sempre cai no mesmo dia da semana, sincronizando esses dois ciclos (semanas e meses) que são os mais importantes no uso cotidiano.
+
+Os nomes dos meses são inspirados em elementos naturais, buscando um caráter mais universal ao calendário, e são ordenados de maneira alfabética, trazendo mais sinergia e facilidade de assimilação. Um ano Dekatrian começa no mês de Auróran (a aurora, o nascer do Sol, o início de um ciclo) e termina no mês de Níxian (a noite, o pôr do Sol, o fim do ciclo). Ao total são 13 meses iniciados em A, B, C, D, ... L, M e N, seguidos de um dia especial que não faz parte de nenhum mês, o Acrônian, cuja função é sincronizar o calendário ao ciclo solar.
+
+O calendário Dekatrian permite planejar compromissos sem a necessidade de olhar uma agenda; simplifica a contabilidade de dias trabalhados, férias e pagamentos; está sincronizado com o ciclo menstrual, sendo uma ferramenta para uma auto-compreensão corporal/fisiológica; concede ao ser humano uma percepção e integração com essa que é uma das grandezas mais importantes do universo: o **tempo**.
