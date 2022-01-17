@@ -1,14 +1,14 @@
 <template>
-  <IndexTemplate />
+  <MonthsTemplate />
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'IndexPage',
+  name: 'MonthsPage',
   head: {
-    title: 'Home — Dekatrian',
+    title: 'Os Meses — Dekatrian',
   },
 });
 </script>

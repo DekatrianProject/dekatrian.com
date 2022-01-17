@@ -1,14 +1,14 @@
 <template>
-  <IndexTemplate />
+  <WhyTemplate />
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'IndexPage',
+  name: 'WhyPage',
   head: {
-    title: 'Home — Dekatrian',
+    title: 'Por que o Dekatrian? — Dekatrian',
   },
 });
 </script>

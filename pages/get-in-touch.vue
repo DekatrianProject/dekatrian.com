@@ -1,14 +1,14 @@
 <template>
-  <IndexTemplate />
+  <GetInTouchTemplate />
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'IndexPage',
+  name: 'GetInTouchPage',
   head: {
-    title: 'Home — Dekatrian',
+    title: 'Contato — Dekatrian',
   },
 });
 </script>

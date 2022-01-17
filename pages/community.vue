@@ -1,14 +1,14 @@
 <template>
-  <IndexTemplate />
+  <CommunityTemplate />
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'IndexPage',
+  name: 'CommunityPage',
   head: {
-    title: 'Home — Dekatrian',
+    title: 'Comunidade — Dekatrian',
   },
 });
 </script>

@@ -1,14 +1,14 @@
 <template>
-  <IndexTemplate />
+  <HowToUseTemplate />
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
 
 export default Vue.extend({
-  name: 'IndexPage',
+  name: 'HowToUsePage',
   head: {
-    title: 'Home — Dekatrian',
+    title: 'Como usar o Dekatrian? — Dekatrian',
   },
 });
 </script>
