@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: templates/about-template.vue:3
+msgid "About"
+msgstr "Sobre"
+
+#: templates/community-template.vue:3
+msgid "Community"
+msgstr "Comunidade"
+
+#: templates/get-in-touch-template.vue:3
+msgid "Contact"
+msgstr "Contato"
+
+#: templates/developers-template.vue:3
+msgid "Developers"
+msgstr "Desenvolvedores"
+
+#: templates/how-to-use-template.vue:3
+msgid "How to use Dekatrian?"
+msgstr "Como usar o Dekatrian?"
+
+#: templates/links-template.vue:3
+msgid "Links and Apps"
+msgstr "Links e Apps"
+
+#: templates/months-template.vue:3
+msgid "The Months"
+msgstr "Os Meses"
+
+#: templates/what-is-it-template.vue:3
+msgid "What is Dekatrian?"
+msgstr "O que é o Dekatrian?"
+
+#: templates/why-template.vue:3
+msgid "Why Dekatrian?"
+msgstr "Por que o Dekatrian?"

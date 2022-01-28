@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl">Desenvolvedores</h2>
+    <h2 class="text-2xl">{{ $t('Developers') }}</h2>
 
     <a href="https://github.com/DekatrianProject" target="_blank">
       <svg

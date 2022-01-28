@@ -1,5 +1,3 @@
-/* eslint-env es6, node */
-
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -45,6 +43,8 @@ export default {
     '@nuxtjs/pwa',
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
+    // https://i18n.nuxtjs.org/
+    '@nuxtjs/i18n',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -65,4 +65,40 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+
+  i18n: {
+    locales: [
+      {
+        code: 'en',
+        iso: 'en-US',
+        name: 'English',
+      },
+      {
+        code: 'pt',
+        iso: 'pt-BR',
+        name: 'Português',
+      },
+      {
+        code: 'es',
+        iso: 'es-ES',
+        name: 'Español',
+      },
+    ],
+    strategy: 'prefix_except_default',
+    defaultLocale: 'en',
+    noPrefixDefaultLocale: true,
+    detectBrowserLanguage: {
+      useCookie: true,
+      cookieKey: 'i18n_redirected',
+      redirectOn: 'root',
+    },
+    vueI18n: {
+      fallbackLocale: 'en',
+      messages: {
+        en: require('./i18n/en_US.json'),
+        pt: require('./i18n/pt_BR.json'),
+        es: require('./i18n/es_ES.json'),
+      },
+    },
+  },
 };

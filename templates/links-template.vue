@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl">Links e Apps</h2>
+    <h2 class="text-2xl">{{ $t('Links and Apps') }}</h2>
 
     <ul>
       <li>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl">O que é o Dekatrian?</h2>
+    <h2 class="text-2xl">{{ $t('What is Dekatrian?') }}</h2>
   </div>
 </template>
 

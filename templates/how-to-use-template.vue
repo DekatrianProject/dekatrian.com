@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl">Como usar o Dekatrian?</h2>
+    <h2 class="text-2xl">{{ $t('How to use Dekatrian?') }}</h2>
   </div>
 </template>
 

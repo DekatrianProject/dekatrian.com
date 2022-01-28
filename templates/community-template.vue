@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl">Comunidade</h2>
+    <h2 class="text-2xl">{{ $t('Community') }}</h2>
 
     <a href="https://discord.gg/ZGaWg6qPfX" target="_blank">
       <svg width="124" height="34" viewBox="0 0 124 34">

@@ -5,6 +5,7 @@
 
     <div class="container mx-auto text-center">
       <MainMenu class="mt-5" />
+      <LocaleMenu />
     </div>
 
     <div class="container mx-auto bg-white shadow mt-5 pl-3 pr-3 pt-3 pb-3">

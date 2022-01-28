@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="text-2xl">Os Meses</h2>
+    <h2 class="text-2xl">{{ $t('The Months') }}</h2>
 
     <p>
       Os nomes dos meses são inspirados em elementos naturais, buscando um

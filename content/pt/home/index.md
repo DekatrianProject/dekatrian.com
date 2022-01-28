@@ -1,4 +1,10 @@
-# Calendário Dekatrian
+---
+title: Calendário Dekatrian
+category: index
+description: O Calendário Dekatrian tem o objetivo de simplificar e melhorar a relação humana com o tempo, enquanto resolve diversos problemas e dificuldades do calendário atual, o Gregoriano
+---
+
+<iframe width="100%" height="560" src="https://www.youtube-nocookie.com/embed/McGKc_ICD84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 O Calendário Dekatrian tem o objetivo de simplificar e melhorar a relação humana com o tempo, enquanto resolve diversos problemas e dificuldades do calendário atual, o Gregoriano. Trata-se de um calendário solar contendo 13 meses com exatos 28 dias, ou 4 semanas perfeitas. Assim, todo dia 1 de cada mês sempre cai no mesmo dia da semana, sincronizando esses dois ciclos (semanas e meses) que são os mais importantes no uso cotidiano.
 

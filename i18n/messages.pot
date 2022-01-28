@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: templates/about-template.vue:3
+msgid "About"
+msgstr ""
+
+#: templates/community-template.vue:3
+msgid "Community"
+msgstr ""
+
+#: templates/get-in-touch-template.vue:3
+msgid "Contact"
+msgstr ""
+
+#: templates/developers-template.vue:3
+msgid "Developers"
+msgstr ""
+
+#: templates/how-to-use-template.vue:3
+msgid "How to use Dekatrian?"
+msgstr ""
+
+#: templates/links-template.vue:3
+msgid "Links and Apps"
+msgstr ""
+
+#: templates/months-template.vue:3
+msgid "The Months"
+msgstr ""
+
+#: templates/what-is-it-template.vue:3
+msgid "What is Dekatrian?"
+msgstr ""
+
+#: templates/why-template.vue:3
+msgid "Why Dekatrian?"
+msgstr ""
